@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/geuntaek1013/react-payments.git/static/css/main.521a994e.css",
-    "main.js": "/geuntaek1013/react-payments.git/static/js/main.e8b4d76a.js",
-    "index.html": "/geuntaek1013/react-payments.git/index.html",
-    "static/media/left-icon.svg": "/geuntaek1013/react-payments.git/static/media/left-icon.e35d21bd6eb4c923e918de8f4aaf2673.svg",
-    "main.521a994e.css.map": "/geuntaek1013/react-payments.git/static/css/main.521a994e.css.map",
-    "main.e8b4d76a.js.map": "/geuntaek1013/react-payments.git/static/js/main.e8b4d76a.js.map"
+    "main.css": "/react-payments/static/css/main.521a994e.css",
+    "main.js": "/react-payments/static/js/main.f5a70df2.js",
+    "index.html": "/react-payments/index.html",
+    "static/media/left-icon.svg": "/react-payments/static/media/left-icon.e35d21bd6eb4c923e918de8f4aaf2673.svg",
+    "main.521a994e.css.map": "/react-payments/static/css/main.521a994e.css.map",
+    "main.f5a70df2.js.map": "/react-payments/static/js/main.f5a70df2.js.map"
   },
   "entrypoints": [
     "static/css/main.521a994e.css",
-    "static/js/main.e8b4d76a.js"
+    "static/js/main.f5a70df2.js"
   ]
 }
